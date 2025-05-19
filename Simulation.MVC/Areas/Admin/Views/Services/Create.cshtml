@@ -1,0 +1,30 @@
+﻿@model CollectionModelVM
+<div class="bg-secondary rounded h-100 p-4">
+    <h6 class="mb-4">Basic Form</h6>
+    <form asp-action="Create" enctype="multipart/form-data"> 
+        <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Name</label>
+            <input asp-for="Name" class="form-control" aria-describedby="emailHelp">
+            <div id="emailHelp" class="form-text">
+            </div>
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Category</label>
+            <input asp-for="Category" class="form-control">
+        </div>
+        <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Image</label>
+            <input asp-for="Image" type="file" class="form-control" >
+        </div>
+        <div class="mb-3">
+            <label class="form-check-label" lass="form-label">ItemsInCollection</label>
+            <input asp-for="ItemsInCollection" class="form-control" />
+        </div>
+        <div class="mb-3">
+            <label class="form-check-label" lass="form-label">Category</label>
+            <input asp-for="Category" class="form-control" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Create</button>
+    </form>
+</div>

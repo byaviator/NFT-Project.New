@@ -1,0 +1,45 @@
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\bin\Debug\net8.0\Simulation.BL.deps.json
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\bin\Debug\net8.0\Simulation.BL.dll
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\bin\Debug\net8.0\Simulation.BL.pdb
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.dll
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.pdb
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.AssemblyReference.cache
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfoInputs.cache
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfo.cs
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.CoreCompileInputs.cache
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulati.0480706A.Up2Date
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.dll
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\refint\Simulation.BL.dll
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\Simulation.BL.pdb
+C:\Users\Abu\source\repos\Simulation\Simulation.BL\obj\Debug\net8.0\ref\Simulation.BL.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.deps.json
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.pdb
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.pdb
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.AssemblyReference.cache
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfoInputs.cache
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfo.cs
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.CoreCompileInputs.cache
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulati.0480706A.Up2Date
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\refint\Simulation.BL.dll
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.pdb
+C:\Users\II Novbe\Desktop\Simulation-NFT-main\Simulation.BL\obj\Debug\net8.0\ref\Simulation.BL.dll
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.deps.json
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.dll
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.BL.pdb
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.dll
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\bin\Debug\net8.0\Simulation.DAL.pdb
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.AssemblyReference.cache
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfoInputs.cache
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.AssemblyInfo.cs
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.csproj.CoreCompileInputs.cache
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulati.0480706A.Up2Date
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.dll
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\refint\Simulation.BL.dll
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\Simulation.BL.pdb
+C:\Users\Abu\OneDrive\Desktop\NEW-NFT-main\Simulation.BL\obj\Debug\net8.0\ref\Simulation.BL.dll

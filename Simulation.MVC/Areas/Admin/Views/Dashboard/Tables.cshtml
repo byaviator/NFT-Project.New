@@ -1,0 +1,41 @@
+﻿@using Simulation.DAL.Models
+@model List<CollectionModel>
+<div class="bg-secondary text-center rounded p-4">
+    <div class="d-flex align-items-center justify-content-between mb-4">
+        <h6 class="mb-0">Recent Salse</h6>
+        <a href="">Show All</a>
+    </div>
+    <div class="table-responsive">
+        <table class="table text-start align-middle table-bordered table-hover mb-0">
+            <thead>
+                <a asp-area="Admin" asp-controller="Services" asp-action="Create" > Yeni Collection Yarat </a>
+                <tr class="text-white">
+                    <th scope="col"><input class="form-check-input" type="checkbox"></th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Category</th>
+                    <th scope="col">ItemsInCollection</th>
+                    <th scope="col">ImgPAth</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    if ( Model is not null)
+                    {
+                        foreach (CollectionModel collection in Model)
+                        {
+                            <tr>
+                                <td>@collection.Name</td>
+                                <td>@collection.Category</td>
+                                <td>@collection.ItemsInCollection</td>
+                                <td><img src="~/assets/UploadedImages/@collection.ImgPath" alt="Alternate Text" /></td>
+                                <td><a asp-controller="Services" asp-action="Delete" asp-route-id="@collection.Id">Delete</a></td>
+                                <td><a asp-controller="Services" asp-action="Update" asp-route-id="@collection.Id">Update</a></td>
+                            </tr>
+                            
+                        }
+                    }  
+                  }
+            </tbody>
+        </table>
+    </div>
+</div>
